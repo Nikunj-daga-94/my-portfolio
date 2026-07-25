@@ -19,7 +19,7 @@ export function PrimaryPhoto() {
             alt="Srikunj Daga"
             fill
             sizes="(max-width: 768px) 100vw, 25vw"
-            priority
+            preload
             className="object-cover"
           />
         </div>
